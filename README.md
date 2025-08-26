@@ -16,8 +16,8 @@
    firebase_core:
    firebase_auth:
    cloud_firestore:
+   //Add other Firebase packages as needed
 
-# Add other Firebase packages as needed
 
 7. flutter pub get
 8. now change ndk to "27.0.12077973" or just remove and minsdk to 23 or higher
